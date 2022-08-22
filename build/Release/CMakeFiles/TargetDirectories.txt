@@ -1,0 +1,2 @@
+C:/dev/glist/glistplugins/gipXlnt/build/Release/CMakeFiles/edit_cache.dir
+C:/dev/glist/glistplugins/gipXlnt/build/Release/CMakeFiles/rebuild_cache.dir
